@@ -1,7 +1,9 @@
 # Work Term Report W21
 
 School of Computer Science
+
 3D Models and 3D Web Visualisation Canada - 3D Support
+
 Winter 2021
 
 ## About
@@ -39,7 +41,8 @@ This work term has been the best learning experience I’ve had so far, and I’
 
 Big thank you to Boyan for giving me the opportunity, providing great feedback during our meetings, and asking tough questions to keep me on my toes. Also to Mike, for being a great mentor, helping me through issues, guiding me through concepts that I had never encountered before, providing a great internship experience during this crazy pandemic, and being a great friend to talk to. 
 
-
+### Author: Waqas Bakht
+### Email: wbakht@uoguelph.ca
 
 
 
