@@ -1,4 +1,4 @@
-# Work Term Report W21
+# Work Term Report S21
 
 School of Computer Science
 
